@@ -1,0 +1,155 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/uchchhash_work/github_repos/systemverilog-hdl/interview_questions
+varray_queue
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1731476596
+!i10b 1
+!s100 d3^mn_ik40AloXV[ZZam`2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IEX=JOzbF?DgZBTYfFD:Hz0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+w1731476592
+8.\array_queue.sv
+F.\array_queue.sv
+!i122 47
+L0 2 27
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1731476595.000000
+!s107 .\array_queue.sv|
+!s90 .\array_queue.sv|
+!i113 1
+Z5 tCvgOpt 0
+vbitstream_cast
+R1
+!s110 1731407207
+!i10b 1
+!s100 G3B:ahIjHgF3_bnoZgD[k2
+R2
+I:z32YEAh1ohzz;6h;e5^81
+R3
+S1
+R0
+w1731407186
+8.\simple_bitstream_cast.sv
+F.\simple_bitstream_cast.sv
+!i122 12
+L0 1 25
+R4
+r1
+!s85 0
+31
+!s108 1731407207.000000
+!s107 .\simple_bitstream_cast.sv|
+!s90 .\simple_bitstream_cast.sv|
+!i113 1
+R5
+vbitstream_casting
+R1
+!s110 1731407595
+!i10b 1
+!s100 RNVYFzKcTLQ<hW[_V8>CS3
+R2
+Ih<I1Q2OS[[7oN8^oG3bzl2
+R3
+S1
+R0
+w1731407592
+8.\bitstream_casting.sv
+F.\bitstream_casting.sv
+!i122 14
+L0 3 18
+R4
+r1
+!s85 0
+31
+!s108 1731407595.000000
+!s107 .\bitstream_casting.sv|
+!s90 .\bitstream_casting.sv|
+!i113 1
+R5
+vfork_join
+R1
+!s110 1731471947
+!i10b 1
+!s100 AE6WQcK18M;bA1Qb]1?hG1
+R2
+I3P7B>GMFag7FV_T5;>Oc13
+R3
+S1
+R0
+w1731471942
+8.\fork_join_example.sv
+F.\fork_join_example.sv
+!i122 27
+L0 2 25
+R4
+r1
+!s85 0
+31
+!s108 1731471947.000000
+!s107 .\fork_join_example.sv|
+!s90 .\fork_join_example.sv|
+!i113 1
+R5
+vstreaming_operator_example
+R1
+!s110 1731396575
+!i10b 1
+!s100 156JY;<H=GYa9d]XRCjNH0
+R2
+IMDNf[<DiOfdMYE<Jz[C;C2
+R3
+S1
+R0
+w1731396574
+8.\streaming_operator.sv
+F.\streaming_operator.sv
+!i122 4
+L0 1 64
+R4
+r1
+!s85 0
+31
+!s108 1731396575.000000
+!s107 .\streaming_operator.sv|
+!s90 .\streaming_operator.sv|
+!i113 1
+R5
+vstruct_example
+R1
+!s110 1731388448
+!i10b 1
+!s100 >NJ]4kO_K_0JgUiWSae?D0
+R2
+I_WS?Eo7b3l>QPnb9;Co7S3
+R3
+S1
+R0
+w1731388448
+8.\structs_example.sv
+F.\structs_example.sv
+!i122 1
+L0 1 36
+R4
+r1
+!s85 0
+31
+!s108 1731388448.000000
+!s107 .\structs_example.sv|
+!s90 .\structs_example.sv|
+!i113 1
+R5
